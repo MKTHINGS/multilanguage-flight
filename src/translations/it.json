@@ -9,7 +9,7 @@
   "sections": {
     "welcome": {
       "title": " ",
-      "subtitle": "Benvenuti su MKthings.\n\nAccomodatevi e godetevi il viaggio!"
+      "subtitle": "Benvenuti sul volo MKTHINGS 2025\n\nAccomodatevi e godetevi il viaggio!"
     },
     "services": {
       "title": "Servizi",
@@ -25,7 +25,7 @@
     },
     "contact": {
       "title": "Contatti",
-      "subtitle": "\nEmail:\ninfo@mk-things.com\n\nTelefono:\n+39 (334) 123-4567\n\nSeguimi sui social media"
+      "subtitle": "\nEmail:\ninfo@mk-things.com\n\nTelefono:\n+39 (334) 123-4567\n\nSeguici sui social media"
     }
   }
 }
