@@ -1,7 +1,7 @@
 # MK-THINGS Multilingual 3D Flight Experience
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fmultilanguage-flight.vercel.app%2F&label=Visitors&icon=display&color=%23198754) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMKTHINGS%2Fmultilanguage-flight&label=Project+Visits&icon=github&color=%23000000) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmultilanguage-flight.vercel.app)](https://multilanguage-flight.vercel.app) ![Static Badge](https://img.shields.io/badge/Content_and_concept_hours-5h-yellow) ![Static Badge](https://img.shields.io/badge/AI_hours-1h-orange) ![Static Badge](https://img.shields.io/badge/MKTHINGS_hours-4h-rebeccapurple)
 
-<p align="center"><img src="https://github.com/MKTHINGS/multilanguage-flight/blob/main/public/images/preview_low.gif?raw=true"></p>
+![MK-THINGS Multilingual 3D Flight Experience](https://github.com/MKTHINGS/multilanguage-flight/blob/main/public/images/preview_low.gif?raw=true)
 
 This project is a React Three Fiber (R3F) web application that provides an interactive 3D flight experience with multilingual support. It's a modified version of the original [WAWATMOS project](https://github.com/wass08/r3f-wawatmos-final) with added features and improvements.
 
@@ -34,7 +34,9 @@ r3f-wawatmos-multilingual/
 ├── public/
 │   ├── fonts/
 │   ├── images/
-│   └── ...
+│   └── models/
+│       ├── airplane/
+│       └── cloud/
 ├── src/
 │   ├── components/
 │   │   ├── Airplane.jsx
@@ -104,3 +106,7 @@ The application is compatible with modern browsers that support WebGL:
 ## Credits
 
 This project is a modified version of the original [WAWATMOS project](https://github.com/wass08/r3f-wawatmos-final), with added multilingual support, navigation links, contact section, rebranded logo, and redirect functionality.
+
+### 3D Model credits
+
+Airplane by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8VysVKMXN2J)
