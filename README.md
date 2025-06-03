@@ -1,5 +1,7 @@
 # MK-THINGS Multilingual 3D Flight Experience
 
+![MK-THINGS Multilingual 3D Flight Experience](https://github.com/MKTHINGS/multilanguage-flight/blob/main/public/images/preview_low.gif?raw=true)
+
 This project is a React Three Fiber (R3F) web application that provides an interactive 3D flight experience with multilingual support. It's a modified version of the original [WAWATMOS project](https://github.com/wass08/r3f-wawatmos-final) with added features and improvements.
 
 ## Features
