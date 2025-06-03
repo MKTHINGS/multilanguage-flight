@@ -1,0 +1,31 @@
+{
+  "overlay": {
+    "logo": "MK-THINGS",
+    "scroll": "Derulați pentru a începe călătoria",
+    "explore": "Explorează",
+    "outro": "Sperăm că ați avut un zbor plăcut cu noi...",
+    "github": "Ajungem pe profilul GitHub"
+  },
+  "sections": {
+    "welcome": {
+      "title": " ",
+      "subtitle": "Bine ați venit la MKthings.\n\nLuați loc și bucurați-vă de călătorie!"
+    },
+    "services": {
+      "title": "Servicii",
+      "subtitle": "\nDoriți o băutură?\n\nAvem o gamă largă de băuturi!"
+    },
+    "fear": {
+      "title": "Frică de zbor?",
+      "subtitle": "\nÎnsoțitorii noștri de zbor vă vor ajuta să aveți o călătorie minunată"
+    },
+    "movies": {
+      "title": "Blog",
+      "subtitle": "\nOferim o gamă largă de materiale media, vă recomandăm insistent să le citiți în timpul zborului făcând clic aici..."
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "\nEmail:\ninfo@mk-things.com\n\nTelefon:\n+39 (334) 123-4567\n\nUrmăriți-ne pe rețelele sociale"
+    }
+  }
+}

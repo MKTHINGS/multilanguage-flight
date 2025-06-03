@@ -1,0 +1,31 @@
+{
+  "overlay": {
+    "logo": "MK-THINGS",
+    "scroll": "Scroll to begin the journey",
+    "explore": "Explore",
+    "outro": "Wish you had a great flight with us...",
+    "github": "We are landing on the GitHub profile"
+  },
+  "sections": {
+    "welcome": {
+      "title": " ",
+      "subtitle": "Welcome to MKthings.\n\nHave a seat and enjoy the ride!"
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "\nDo you want a drink?\n\nWe have a wide range of beverages!"
+    },
+    "fear": {
+      "title": "Fear of flying?",
+      "subtitle": "\nOur flight attendants will help you have a great journey"
+    },
+    "movies": {
+      "title": "Blog",
+      "subtitle": "\nWe offer a wide selection of media, we strongly recommend you read it during your flight by clicking here..."
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "\nEmail:\ninfo@mk-things.com\n\nPhone:\n+39 (334) 123-4567\n\nFollow us on social media"
+    }
+  }
+}
