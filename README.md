@@ -1,6 +1,6 @@
 # MK-THINGS Multilingual 3D Flight Experience
 
-This project is a React Three Fiber (R3F) web application that provides an interactive 3D flight experience with multilingual support. It's a modified version of the original WAWATMOS project with added features and improvements.
+This project is a React Three Fiber (R3F) web application that provides an interactive 3D flight experience with multilingual support. It's a modified version of the original [WAWATMOS project](https://github.com/wass08/r3f-wawatmos-final) with added features and improvements.
 
 ## Features
 
@@ -16,13 +16,13 @@ This project is a React Three Fiber (R3F) web application that provides an inter
 
 - **Interactive 3D Flight Experience**: Users can navigate through a 3D environment with an airplane, experiencing a virtual flight journey.
 
-- **Clickable Navigation Links**: The "Services", "Fear of flying?", and "Movies" sections are clickable links that redirect to example.com.
+- **Clickable Navigation Links**: The "Services", "Fear of flying?", and "Blog" sections are clickable links that redirect to [https://mkthings.github.io/blog](https://mkthings.github.io/blog).
 
 - **Contact Section**: A new Contact section has been added to the application.
 
 - **Rebranded Logo**: The logo has been changed from "WAWATMOS" to "MK-THINGS".
 
-- **Redirect Functionality**: After completing the flight experience, the application automatically redirects to example.com after 5 seconds.
+- **Redirect Functionality**: After completing the flight experience, the application automatically redirects to [GITHUB Profile](https://github.com/mkthings) after 5 seconds.
 
 ## Project Structure
 
@@ -100,4 +100,4 @@ The application is compatible with modern browsers that support WebGL:
 
 ## Credits
 
-This project is a modified version of the original WAWATMOS project, with added multilingual support, navigation links, contact section, rebranded logo, and redirect functionality.
+This project is a modified version of the original [WAWATMOS project](https://github.com/wass08/r3f-wawatmos-final), with added multilingual support, navigation links, contact section, rebranded logo, and redirect functionality.
